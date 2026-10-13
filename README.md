@@ -1,6 +1,8 @@
-# Discord Clone
+![Anaphor](https://socialify.dev/JamezM546/Anaphor/image?custom_description=%F0%9F%92%AC+Real+time+messaging.+%E2%9A%A1+Built+with+React+%2B+TypeScript&description=1&font=JetBrains+Mono&language=1&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F12519%2F12519926.png&name=1&pattern=Yyy&theme=Dark)
 
-A web-based Discord-inspired communication app. Ready to run with Docker - no setup required!
+## About
+
+**Anaphor** is a web-based Discord-inspired communication app. Ready to run with Docker - no setup required!
 
 Deployment note: the `deployed` branch is intended to be the release branch for automated deployment workflow testing.
 
@@ -331,3 +333,7 @@ The app is designed to be a drop-in replacement for Discord, with a focus on sim
 - Docker Compose
 
 **Total setup time: Less than 5 minutes**
+
+## Credits
+
+<sub><a href="https://www.flaticon.com/free-icons/message" title="message icons">Message icons created by Cap Cool - Flaticon</a></sub>
